@@ -1,0 +1,10 @@
+n1 = int(input("Enter first no\t: "))
+n2 = int(input("Enter second no\t: "))
+
+print(n1, "  +  ", n2 , "\t: ", n1 + n2)
+print(n1, "  -  ", n2 , "\t: ", n1 - n2)
+print(n1, "  *  ", n2 , "\t: ", n1 * n2)
+print(n1, "  ** ", n2 , "\t: ", n1 ** n2)
+print(n1, "  /  ", n2 , "\t: ", n1 / n2)
+print(n1, "  // ", n2 , "\t: ", n1 // n2)
+print(n1, "  %  ", n2 , "\t: ", n1 % n2)
